@@ -101,19 +101,6 @@ Based on the analysis, the following strategies may help convert casual riders i
 
 ---
 
-## Repository Structure
-
-```
-cyclistic-bike-share-analysis
-│
-├── data                # Dataset documentation
-├── sql                 # SQL queries used for analysis
-├── visualizations      # Charts and graphs
-└── reports             # Full case study report
-```
-
----
-
 ## Author
 
 Noah Irby  
