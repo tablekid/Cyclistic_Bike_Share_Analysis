@@ -71,7 +71,7 @@ SQL queries used for the analysis can be found in the **sql/** folder.
 
 Casual riders have a higher average ride length than annual members, suggesting more recreational use.
 
-![Average Ride Length](visualizations/ride_length_chart.png)
+![Average Ride Time by Group](visualizations/ridetimebygroup.png)
 
 ---
 
@@ -79,13 +79,15 @@ Casual riders have a higher average ride length than annual members, suggesting 
 
 Ride activity from casual riders peaks on Saturdays and Sundays, while members ride more consistently throughout the week.
 
-![Rides by Day of Week](visualizations/weekday_usage_chart.png)
+![Rides by Weekday](visualizations/ridesbyweekday.png)
 
 ---
 
 ### Members show commuting patterns
 
 Members demonstrate higher usage during weekday commuting hours.
+
+![Rides by Hour](visualizations/ridesbyhour.png)
 
 ---
 
